@@ -13,8 +13,8 @@ Fixed in: 4.6.1  </br>
 [x]Catch in Burp and change file name to one with XSS inside </br>
 [x]Once it's been uploaded to the website view image page </br>
 [x]XSS will be executed. </br>
-<img src="Assignment8-Exploit1.gif" alt="(XSS)">
 </br>Affected code:<a href="https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0">Source Code</a> </br>
+<img src="Assignment8-Exploit1.gif" alt="(XSS)">
 
 #2 Title: WordPress <= 4.2.2 - Authenticated Stored Cross-Site Scripting (XSS)
 -
