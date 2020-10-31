@@ -15,6 +15,7 @@ Fixed in: 4.6.1  </br>
 [x]XSS will be executed. </br>
 <img src="Assignment8-Exploit1.gif" alt="(XSS)">
 </br>Affected code:<a href="https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0">Source Code</a> </br>
+
 #2 Title: WordPress <= 4.2.2 - Authenticated Stored Cross-Site Scripting (XSS)
 -
 Tested in Wordpress version 4.2
